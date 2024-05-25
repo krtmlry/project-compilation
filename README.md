@@ -1,4 +1,5 @@
-# Project links compilation
+# Project and activities links compilation
+---
 
 ### End-to-end ETL data pipeline using python, sql and looker studio.
 [Project link here](https://github.com/krtmlry/product_sales_2019)
@@ -23,3 +24,8 @@ Note: Looker studio dashboard might be non-functional due to supabase's automati
 
 ### Python CLI dictionary app
 [Project documentation here](https://github.com/krtmlry/dictionary-api-cli-app)
+
+----
+
+### Python for Everbody exercises
+[Exercises](https://github.com/krtmlry/PY4E)
