@@ -1,24 +1,24 @@
 # Project and activities links compilation
----
 
-### End-to-end ETL data pipeline using python, sql and looker studio.
-[Project link here](https://github.com/krtmlry/product_sales_2019)
-```
-Note: Looker studio dashboard might be non-functional due to supabase's automatic stoppage.
-```
----
-### UI / UX Design - Ceneco Mobile App Redesign
-[Project documentation here](https://tinyurl.com/cenecoproject)
+### Product Sales ELT pipeline (Prefect, dbt, Snowflake)
+[Project documentation here](https://github.com/krtmlry/sf_product_sales/blob/main/README.md)
 
 ---
 
-### QA Manual testing
+### Web Application QA Manual testing
 [Project documentation here](https://github.com/krtmlry/qa-manual-testing)
 
 ---
 
-### Prefect-dbt-postgres ELT pipeline
-[Project documentation here](https://github.com/krtmlry/prefect-dbt-postgres/tree/main)
+### Product Sales ETL Pipeline (Python, SQL, looker studio)
+[Project documentation here](https://github.com/krtmlry/product_sales_2019)
+```
+Note: Looker studio dashboard might be unavailable due to supabase's automatic stoppage.
+```
+---
+
+### UI / UX Design - Ceneco Mobile App Redesign
+[Project documentation here](https://tinyurl.com/cenecoproject)
 
 ---
 
